@@ -1,6 +1,6 @@
 
 # PCA: EXP-1  SUM ARRAY GPU
-### Name: ROSHINI R.K
+### Name: ROSHINI.R.K
 ### Reg. No.: 212222230123
 ### Exp. No.: 01
 ### Date: 
